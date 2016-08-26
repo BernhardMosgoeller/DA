@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1467101439 source:c:\users\bernhard\schule\!da\programme\vorarbeit\channel_coding\data_test\data_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
