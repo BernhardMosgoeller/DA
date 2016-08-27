@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1472302260 source:c:\users\bernhard\schule\!da\programme\data_file_kommunikation\reader\file_reader\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
